@@ -1,0 +1,17 @@
+.list {
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+}
+
+.ingredients {
+    background-color: aqua;
+}
+
+.grilled-cheese {
+    background-color: bisque;
+}
+
+.ordered-cheese {
+    background-color: rebeccapurple;
+}
